@@ -1,0 +1,4 @@
+include ':mylibrary'
+include ':app:mvp'
+include ':app'
+rootProject.name = "mMvp"
